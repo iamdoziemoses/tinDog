@@ -233,4 +233,8 @@ h2{
     h3{
         font-size: 1.2rem;
     }
+
+    .title-image {
+        margin-top: 1.3rem;
+    }
 }

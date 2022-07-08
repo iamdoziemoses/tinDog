@@ -1,2 +1,2 @@
 # tinDog
-I built a tindog fictional website. I built it with HTML, CSS and BootStrap
+I built a fictional website called tinDog. I built it with HTML, CSS and BootStrap
